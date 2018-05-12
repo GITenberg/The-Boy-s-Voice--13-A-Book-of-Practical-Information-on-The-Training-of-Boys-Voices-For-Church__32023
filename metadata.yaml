@@ -1,0 +1,32 @@
+_repo: The-Boy-s-Voice--13-A-Book-of-Practical-Information-on-The-Training-of-Boys-Voices-For-Church__32023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curwen, J. Spencer (John Spencer)
+    alias: Curwen, John Spencer
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '35622'
+    url: http://www.gutenberg.org/2009/agents/35622
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Choirs (Music)'
+- !lcsh 'Choirboys -- Training of -- England'
+- !lcsh 'Voice culture'
+- !lcsh 'Singing'
+- !lcc 'MT'
+title: "The Boy's Voice\r\nA Book of Practical Information on The Training of Boys'\
+  \ Voices For Church Choirs, &c."
+url: http://www.gutenberg.org/ebooks/32023
