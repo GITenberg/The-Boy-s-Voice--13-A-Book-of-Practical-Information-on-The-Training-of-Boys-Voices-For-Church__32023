@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35622'
     url: http://www.gutenberg.org/2009/agents/35622
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32023#The-Boy-s-Voice--13-A-Book-of-Practical-Information-on-The-Training-of-Boys-Voices-For-Church_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
